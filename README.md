@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadelcode" alt="kadelcode" /></a> </p>
 
-- 🔭 I’m currently working on [Data Manipulation](https://github.com/kadelcode/alx-backend-javascript/tree/main/0x03-ES6_data_manipulation)
+- 🔭 I’m currently working on [A url shortener app](https://github.com/kadelcode/url-shortener)
 
 - 🌱 I’m currently learning **Software Development**
 

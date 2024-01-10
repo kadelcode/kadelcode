@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadelcode" alt="kadelcode" /></a> </p>
 
-- 🔭 I’m currently working on [A url shortener app](https://github.com/kadelcode/url-shortener)
+- 🔭 I’m currently working on [url shortener app](https://github.com/kadelcode/url-shortener)
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👯 I’m looking to collaborate on [Simple Shell](https://github.com/kadelcode/simple_shell)
 
 - 🤝 I’m looking for help with [Maze Game](https://github.com/kadelcode/maze_project)
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Django, flask or anything about Python**
 
 - 📫 How to reach me **kadelcode@gmail.com**
 

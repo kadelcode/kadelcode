@@ -17,7 +17,20 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full-stack software engineer from Nigeria</h3>
 <div align="center"><img  alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"></div>
 
+## About Me
+I'm a passionate full-stack developer with experience in building web applications using various technologies. My journey in software development began 6 years ago, and I've been hooked ever since. I love turning ideas into code and solving complex problems with elegant solutions.
 
+## Skill
+- **Frontend Development:** HTML5, CSS3, JavaScript, React.js
+- **Backend Development:** Node.js, Express.js, Django, Flask
+- **Database Management:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- **Version Control:** Git, GitHub
+- **Other Tools & Technologies:** Docker, AWS, Nginx, Apache, Heroku, RESTful APIs
+
+## Projects
+### Project 1: [URL Shortner Web App]
+Description: [Brief description of the project, its purpose, and the technologies used]
+GitHub: [Link to GitHub repository]
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadelcode" alt="kadelcode" /></a> </p>
 
 - 🔭 I’m currently working on [url shortener app](https://github.com/kadelcode/url-shortener)

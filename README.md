@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center"><img  alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"></div>
 
 ## About Me
-I'm a passionate full-stack developer with experience in building web applications using various technologies. My journey in software development began 6 years ago, and I've been hooked ever since. I love turning ideas into code and solving complex problems with elegant solutions.
+I'm a passionate full-stack developer with experience in building web applications using various technologies. My journey in software development began 6 years ago, and I've been hooked ever since. I love turning ideas into a clean and bug free code and also, solving complex problems with elegant solutions.
 
 ## Skill
 - **Frontend Development:** HTML5, CSS3, JavaScript, React.js

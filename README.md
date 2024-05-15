@@ -29,19 +29,19 @@ I'm a passionate full-stack developer with experience in building web applicatio
 
 ## Projects
 ### Project 1: URL Shortner Web App
-Description: A flask (Python web framework) web application that allows users to shorten long URLs.
-Technologies used: HTML, CSS, JS, Bootstrap5, Flask
-GitHub: [Link to GitHub repository](https://github.com/kadelcode/url-shortener)
+- Description: A flask (Python web framework) web application that allows users to shorten long URLs.
+- Technologies used: HTML, CSS, JS, Bootstrap5, Flask
+- GitHub: [Link to GitHub repository](https://github.com/kadelcode/url-shortener)
 
 ### Project 2: Files Manager
-Description: A simple platform to upload and view files.
-Technologies used: JavaScript, NodeJS, Mongodb, Redis
-GitHub: [Link to GitHub repository](https://github.com/kadelcode/alx-files_manager)
+- Description: A simple platform to upload and view files.
+- Technologies used: JavaScript, NodeJS, Mongodb, Redis
+- GitHub: [Link to GitHub repository](https://github.com/kadelcode/alx-files_manager)
 
 ### Project 3: AirBnB Clone
-Description: A full AirBnB web application
-Technologies used: HTML, CSS, Python
-GitHub: [Link to GitHub repository](https://github.com/kadelcode/AirBnB_clone)
+- Description: A full AirBnB web application
+- Technologies used: HTML, CSS, Python
+- GitHub: [Link to GitHub repository](https://github.com/kadelcode/AirBnB_clone)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadelcode" alt="kadelcode" /></a> </p>
 
 - 🔭 I’m currently working on [url shortener app](https://github.com/kadelcode/url-shortener)

@@ -28,9 +28,15 @@ I'm a passionate full-stack developer with experience in building web applicatio
 - **Other Tools & Technologies:** Docker, AWS, Nginx, Apache, Heroku, RESTful APIs
 
 ## Projects
-### Project 1: [URL Shortner Web App]
-Description: [Brief description of the project, its purpose, and the technologies used]
-GitHub: [Link to GitHub repository]
+### Project 1: URL Shortner Web App
+Description: A flask (Python web framework) web application that allows users to shorten long URLs.
+Technologies used: HTML, CSS, JS, Bootstrap5, Flask
+GitHub: [Link to GitHub repository](https://github.com/kadelcode/url-shortener)
+
+### Project 2: URL Shortner Web App
+Description: A flask (Python web framework) web application that allows users to shorten long URLs.
+Technologies used: HTML, CSS, JS, Bootstrap5, Flask
+GitHub: [Link to GitHub repository](https://github.com/kadelcode/url-shortener)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadelcode" alt="kadelcode" /></a> </p>
 
 - 🔭 I’m currently working on [url shortener app](https://github.com/kadelcode/url-shortener)

@@ -25,7 +25,7 @@ I'm a passionate full-stack developer with experience in building web applicatio
 - **Backend Development:** Node.js, Express.js, Django, Flask
 - **Database Management:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 - **Version Control:** Git, GitHub
-- **Other Tools & Technologies:** Docker, AWS, Nginx, Apache, Heroku, RESTful APIs
+- **Other Tools & Technologies:** Docker, AWS, Nginx, Apache, Heroku, RESTful APIs, Selenium
 
 ## Projects
 ### Project 1: URL Shortner Web App
@@ -42,9 +42,14 @@ I'm a passionate full-stack developer with experience in building web applicatio
 - Description: A full AirBnB web application
 - Technologies used: HTML, CSS, Python
 - GitHub: [Link to GitHub repository](https://github.com/kadelcode/AirBnB_clone)
+
+### Project 4: Edutech
+- Description: An educational website for entrepreneurs
+- Technologies used: HTML, CSS, Python, JavaScript, Postgres
+- GitHub: [Link to GitHub repository](https://github.com/kadelcode/edutech)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadelcode" alt="kadelcode" /></a> </p>
 
-- 🔭 I’m currently working on [url shortener app](https://github.com/kadelcode/url-shortener)
+- 🔭 I’m currently working on [Educational web app](https://github.com/kadelcode/edutech)
 
 - 🌱 I’m currently learning **Software Engineering**
 

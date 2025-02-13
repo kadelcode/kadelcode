@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full-stack software engineer from Nigeria</h3>
 <!--<div align="center"><img  alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"></div>-->
 <div align="center">
-  [![Watch the video](assets/Screenshot (169).png)](https://drive.google.com/file/d/1ndXZjffcDku9P9h8LPLkQbsWKuNQbB_v/view?usp=sharing)
+  <a href="https://drive.google.com/file/d/1ndXZjffcDku9P9h8LPLkQbsWKuNQbB_v/view?usp=sharing">
+  <img src="assets/Screenshot (169).png" alt="Video">
+</a>
 </div>
 
 ## About Me

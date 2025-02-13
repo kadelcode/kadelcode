@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ayodele</h1>
 <h3 align="center">A passionate full-stack software engineer from Nigeria</h3>
-<div align="center"><img  alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"></div>
+<!--<div align="center"><img  alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"></div>-->
+<div align="center">
+  [![Watch the video](assets/Screenshot (169).png)](https://drive.google.com/file/d/1ndXZjffcDku9P9h8LPLkQbsWKuNQbB_v/view?usp=sharing)
+</div>
 
 ## About Me
 I'm a passionate full-stack developer with experience in building web applications using various technologies. My journey in software development began 6 years ago, and I've been hooked ever since. I love turning ideas into a clean and bug free code and also, solving complex problems with elegant solutions.

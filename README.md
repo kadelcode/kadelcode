@@ -25,7 +25,7 @@ I'm a passionate full-stack developer with experience in building web applicatio
 - **Backend Development:** Node.js, Express.js, Django, Flask
 - **Database Management:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 - **Version Control:** Git, GitHub
-- **Other Tools & Technologies:** Docker, AWS, Nginx, Apache, Heroku, RESTful APIs, Selenium
+- **Other Tools & Technologies:** AI, Docker, AWS, Nginx, Apache, Heroku, RESTful APIs, Selenium
 
 ## Projects
 ### Project 1: URL Shortner Web App
